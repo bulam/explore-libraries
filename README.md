@@ -1,2 +1,2 @@
 # explore-libraries
-What thy forgot to teach you about R workshop
+What they forgot to teach you about R workshop
